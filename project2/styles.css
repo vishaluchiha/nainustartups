@@ -1,1 +1,25 @@
+body{
+    background-color: rgb(1, 1, 1);
+}
+
+.text{
+    color:white;
+    font-size: 20px; 
+    width: 550px; 
+}
+
+.leftside{
+    width: 500px;
+    height:400px;
+    position: absolute;
+    left: 70px ;
+    top: auto;     
+}
+.rightside{
+        width: 500px;
+        height: 400px;
+        position: absolute;
+        right: 70px ;
+        top: auto;   
+}
 
