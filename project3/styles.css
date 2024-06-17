@@ -1,1 +1,36 @@
 
+.leftfix{
+    position: fixed;
+    left: 15px;
+    right: 600px;
+    border: 1px solid rgb(102, 229, 210);
+    box-shadow: rgba(229, 176, 176, 0.2) 0px 2px 8px 0px;
+    width: 200px;
+    height: 480px;
+}
+.light{
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(59, 211, 245);
+    font-size: 18px;
+}
+.rightfix{
+    position: absolute;
+    left:230px;
+    top: auto;
+   
+    width: 1000px;
+    height: 3500px;
+}
+.heading{
+    color:white;
+    font-size: 35px;
+}
+.sub{
+   
+    font-size: 20px;
+    color: rgb(168, 162, 162);
+}
+b{
+    color:rgba(146, 220, 42, 0.291);
+}
